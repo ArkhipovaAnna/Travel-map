@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.playwright-mcp/
+
+# личные данные и загруженные фото
+server/data/
+server/uploads/
